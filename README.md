@@ -1,2 +1,3 @@
-# practice
-learning_in_public
+# Practice Master
+
+This is a repo where I will keep uploading whatever I am currently learning and practicing.
